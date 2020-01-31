@@ -1,2 +1,4 @@
 # hello-stamina
-Everything about endurance sport
+Everything about endurance sport.
+
+We should get a trainer.
